@@ -1,0 +1,3 @@
+L'app installa la versione di Minecraft 2infa
+Bisogna avere Minecraft installato
+Il launcher sarà salvato in .minecraft con il nome di launcher.exe
