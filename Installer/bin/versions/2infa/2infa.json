@@ -1,7 +1,7 @@
 {
   "id": "2infa",
-  "time": "2016-06-01T13:45:48+02:00",
-  "releaseTime": "2015-07-27T12:31:28+02:00",
+  "time": "2017-12-08T13:45:48+02:00",
+  "releaseTime": "2017-12-08T12:31:28+02:00",
   "type": "release",
   "minecraftArguments": "--username ${auth_player_name} --version ${version_name} --gameDir ${game_directory} --assetsDir ${assets_root} --assetIndex ${assets_index_name} --uuid ${auth_uuid} --accessToken ${auth_access_token} --userProperties ${user_properties} --userType ${user_type}",
   "libraries": [
@@ -243,30 +243,5 @@
   ],
   "mainClass": "net.minecraft.client.main.Main",
   "minimumLauncherVersion": 14,
-  "assets": "1.8",
-  "downloads": {
-    "client": {
-      "url": "https://launcher.mojang.com/mc/game/1.8.8/client/0983f08be6a4e624f5d85689d1aca869ed99c738/client.jar",
-      "sha1": "0983f08be6a4e624f5d85689d1aca869ed99c738",
-      "size": 8465313
-    },
-    "server": {
-      "url": "https://launcher.mojang.com/mc/game/1.8.8/server/5fafba3f58c40dc51b5c3ca72a98f62dfdae1db7/server.jar",
-      "sha1": "5fafba3f58c40dc51b5c3ca72a98f62dfdae1db7",
-      "size": 8322852
-    },
-    "windows_server": {
-      "url": "https://launcher.mojang.com/mc/game/1.8.8/windows_server/6c95fb4d56a7873ca30385640c546d89c1478b71/windows_server.exe",
-      "sha1": "6c95fb4d56a7873ca30385640c546d89c1478b71",
-      "size": 8718628
-    }
-  },
-  "assetIndex": {
-    "totalSize": 114708537,
-    "id": "1.8",
-    "known": true,
-    "url": "https://launchermeta.mojang.com/mc/assets/1.8/e264980ad255aad2174cbe4d674c102474ae5202/1.8.json",
-    "sha1": "e264980ad255aad2174cbe4d674c102474ae5202",
-    "size": 94650
-  }
+  "assets": "1.8"
 }
