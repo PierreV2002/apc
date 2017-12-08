@@ -1,5 +1,5 @@
-2infa.jar sha1sum 362fb60c493e83cc3406d2df1dd1e5510622634e
-2insa.json sha1sum 12dec0a3057a631944d8f8db0e9ccda92793b3de
+2infa.jar sha1sum 0a85d83539b56118f9afd651da06292593e8769f
+2infa.json sha1sum 1b67a5a232c0411e28bb3cf7e64c615e122592c2
 titan.exe sha1sum 30324b7bdac67aa5090057d2130e3a22f21e1b09
 shiginima.exe sha1sum 9659ba47ee5fd0d798cfbcff272c9892a9937411
-install.bat sha1sum 98732c98a2167322d06df81c746a95411d1937df
+install.bat sha1sum ed405dcd485a6aa4ae41ac97d0fc68b5e238d5ef
