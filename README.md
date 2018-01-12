@@ -1,4 +1,4 @@
-# minecraft-mod
-Source code and download
+# apocalitticraft mod
+download repo
 
-Telegram channel with updates: http://t.me/minecraft2infa
+Telegram channel with updates: http://t.me/minecraftapc
