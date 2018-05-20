@@ -1,4 +1,4 @@
 # Apocalitticraft Mod
 Download repo
 
-Telegram channel with updates: http://t.me/minecraftapc
+Canale Telegram con gli aggiornamenti: http://t.me/minecraftapc
