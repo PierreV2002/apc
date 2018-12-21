@@ -1,0 +1,25 @@
+=======================================
+           APC Mod v0.3.3
+       Installazione manuale
+=======================================
+
+28 novembre 2018
+
+Segui questa guida se appare l'errore 03 durante l'installazione
+
+Trova la tua cartella di Minecraft. Di solito è in %appdata%\.minecraft
+Crea la cartella "apc" sotto "versions"
+
+Files e cartelle:
+
+apc.jar:
+\versions\apc
+
+apc.json
+\versions\apc
+
+apca.json
+\assets\indexes
+
+a1ee4b8b62d984d924e14f40855c3797a4c5c18b (Niente estensione)
+\assets\objects\a1
