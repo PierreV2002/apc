@@ -1,0 +1,47 @@
+APC buildinfo
+
+Elenco delle versioni più recenti dei file di APC con data e ora della build
+
+Versione: 0.3.3
+Numero: 20190217
+Data rilascio: 17/02/2019
+
+apc.jar
+Data: 17/02/2019
+Ora: 13:22
+
+apc.json
+Data: 17/02/2019
+Ora: 13:24
+
+apc-offline.exe
+Data: 17/02/2019
+Ora: 13:34
+
+apc-online.exe
+Data: 16/02/2019
+Ora: 17:00
+
+apca.json
+Data: 14/01/2018
+Ora: 22/42
+
+install.xtx
+Data: 28/11/2018
+Ora: 15:32
+
+list.xml
+Data: 17/02/2019
+Ora: 13:26
+
+log.cfg
+Data: 17/02/2019
+Ora: 13:26
+
+ota.exe
+Data: 16/02/2019
+Ora: 13:34
+
+pack.mcmeta
+Data: 04/05/2018
+Ora: 19:03
