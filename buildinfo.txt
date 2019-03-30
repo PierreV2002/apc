@@ -31,8 +31,8 @@ Data: 28/11/2018
 Ora: 15:32
 
 list.xml
-Data: 17/02/2019
-Ora: 13:26
+Data: 30/03/2019
+Ora: 11:23
 
 log.cfg
 Data: 17/02/2019
