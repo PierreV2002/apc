@@ -1,7 +1,7 @@
 {
   "id": "apc",
-  "time": "2019-02-17T13:45:48+02:00",
-  "releaseTime": "2019-02-17T12:31:28+02:00",
+  "time": "2019-12-01T13:44:48+02:00",
+  "releaseTime": "2019-12-02T12:32:28+02:00",
   "type": "release",
   "minecraftArguments": "--username ${auth_player_name} --version ${version_name} --gameDir ${game_directory} --assetsDir ${assets_root} --assetIndex ${assets_index_name} --uuid ${auth_uuid} --accessToken ${auth_access_token} --userProperties ${user_properties} --userType ${user_type}",
   "libraries": [
