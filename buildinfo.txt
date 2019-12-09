@@ -2,29 +2,29 @@ APC buildinfo
 
 Elenco delle versioni più recenti dei file di APC con data e ora della build
 
-Versione: 0.4.1
-Numero: 20191201
-Data rilascio: 02/12/2019
+Versione: 0.4.2
+Numero: 20191208
+Data rilascio: 09/12/2019
 
 apc.jar
-Data: 01/12/2019
-Ora: 11:20
+Data: 08/12/2019
+Ora: 15.12
 
 apc.json
-Data: 01/12/2019
-Ora: 14:20
+Data: 08/12/2019
+Ora: 15:07
 
 apc-offline.exe
-Data: 22/10/2019
-Ora: 16:52
+Data: 08/12/2019
+Ora: 16:16
 
 apc-online.exe
-Data: 22/10/2019
-Ora: 16:44
+Data: 08/12/2019
+Ora: 15:02
 
 apc-zip.zip
-Data: 01/12/2019
-Ora: 14:22
+Data: 08/12/2019
+Ora: 15:12
 
 apca.json
 Data: 14/01/2018
@@ -35,16 +35,16 @@ Data: 28/11/2018
 Ora: 15:32
 
 list.xml
-Data: 01/12/2019
-Ora: 14:20
+Data: 08/12/2019
+Ora: 15:03
 
 log.cfg
-Data: 01/12/2019
-Ora: 10:57
+Data: 08/12/2019
+Ora: 15:06
 
 ota.exe
-Data: 16/02/2019
-Ora: 13:34
+Data: 08/12/2019
+Ora: 15:10
 
 pack.mcmeta
 Data: 04/05/2018
